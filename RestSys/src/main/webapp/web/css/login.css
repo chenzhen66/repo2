@@ -1,0 +1,30 @@
+.bodybg {
+
+    background-image: url("../../web/image/bglogin.jpg");
+
+    background-position: center 0;
+
+    background-repeat: no-repeat;
+
+    background-attachment: fixed;
+
+    background-size: cover;
+
+    -webkit-background-size: cover;
+
+    -o-background-size: cover;
+
+    -moz-background-size: cover;
+
+    -ms-background-size: cover;
+
+}
+.loginbox{
+
+    width: 25%;
+    height: 75%;
+    float: right;
+    margin-right: 10%;
+    margin-top: 5%;
+    background-color: rgba(255,255,255,0.5);
+}
